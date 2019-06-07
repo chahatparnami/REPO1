@@ -1,0 +1,12 @@
+QUESTION-Run application from terminal but it should not run from icon(GUI)
+SOLUTION-Alter the name of code-file in /usr/bin (firefox to firefoxs) and set alias in bashrc for firefox to firefoxs (alias firefox='firefoxs') }
+QUESTION-How to Write Hello World in a Directory.
+SOLUTION-Impossible, as a directory has no storage/memory of itself 
+QUESTION-Read about RAM 
+SOLUTION-main memory,temporary, 2 types - SRAM nd DRAM, only data being used is stored 
+QUESTION-Find no. of lines in a file
+SOLUTION-file-handling in python, code saved in repo  
+QUESTION-Count no. of lines in a file without saving the file 
+SOLUTION-Input in terminal is saved in RAM, done, code i repo 
+QUESTION-open a browser-tab using python, find top 5 URLs and store them in list then open those 5 URLs and store top 5 in list again
+Redirect message from terminal to whatsapp
