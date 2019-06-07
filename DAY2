@@ -1,0 +1,19 @@
+QUESTION-Find the date and time of a command from history list as to when it was used 
+SOLUTION-Set a variable HISTTIMEFORMAT = "%d/%m/%y %T ",THEN run history
+QUESTION-Change/Update history manually at path and show in terminal without logout/reboot 
+SOLUTION-:/home/adhoc/.bash_history
+        ->update history and just close the terminal 
+        ->on reopening terminal changed history will be seen 
+QUESTION-What does 2> mean? 
+SOLUTION- 2> inserts commands output in a file only if the command entered in incorrect else it displays the output and saves nothing in file
+QUESTION-Study/Read about Vulture and Firefly
+SOLUTION-www.vulture.com/news/firefly
+QUESTION-Read/Explore OSI Model 6 
+SOLUTION-www.computernetworkingnotes.com/ccna-study-guide/...
+QUESTION-Install VLC player on windows using Python
+SOLUTION-Use pywinauto module, run the code through cmd as administrator 
+QUESTION-Find various use-cases or tuple 
+SOLUTION-:Tuples are used to group together related data, such as a person’s name, their age, and their gender.
+          immutable objects can allow substantial optimization
+        ->Tuples can potentially be used as keys
+        ->Tuples can be used to store longitude and latitude coordinates 
