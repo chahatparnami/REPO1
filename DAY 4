@@ -1,0 +1,9 @@
+QUESTION-WAP that runs different commands each after some delay
+QUESTION-Make user in windows using command line
+SOLUTION-
+sudo -i #to move in root
+useradd adhoc #create a new user named adhoc
+cat /etc/passwd #check if it is created
+
+QUESTION-Make a new user and make it root then make sure new-user has no access to change root permissions from being admin
+QUESTION-More then 1 user to write in same files
